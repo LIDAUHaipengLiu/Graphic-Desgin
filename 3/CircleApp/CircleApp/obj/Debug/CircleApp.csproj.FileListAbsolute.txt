@@ -1,0 +1,10 @@
+C:\Users\aihai\Downloads\3\CircleApp\CircleApp\obj\Debug\CircleApp.csprojAssemblyReference.cache
+C:\Users\aihai\Downloads\3\CircleApp\CircleApp\obj\Debug\CircleApp.Form1.resources
+C:\Users\aihai\Downloads\3\CircleApp\CircleApp\obj\Debug\CircleApp.Properties.Resources.resources
+C:\Users\aihai\Downloads\3\CircleApp\CircleApp\obj\Debug\CircleApp.csproj.GenerateResource.cache
+C:\Users\aihai\Downloads\3\CircleApp\CircleApp\obj\Debug\CircleApp.csproj.CoreCompileInputs.cache
+C:\Users\aihai\Downloads\3\CircleApp\CircleApp\bin\Debug\CircleApp.exe.config
+C:\Users\aihai\Downloads\3\CircleApp\CircleApp\bin\Debug\CircleApp.exe
+C:\Users\aihai\Downloads\3\CircleApp\CircleApp\bin\Debug\CircleApp.pdb
+C:\Users\aihai\Downloads\3\CircleApp\CircleApp\obj\Debug\CircleApp.exe
+C:\Users\aihai\Downloads\3\CircleApp\CircleApp\obj\Debug\CircleApp.pdb
